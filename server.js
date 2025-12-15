@@ -3,7 +3,7 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
-  res.send('Hello! Meka mage mulma DevOps Project eka.');
+  res.send('Hello! Meka mage mulma DevOps Project eka. update successfull');
 });
 
 app.listen(port, () => {
